@@ -18,7 +18,7 @@ The example script generates the following outputs:
 - Linear-combination model results in NIfTI-MRS format following a preliminiary proposal to store LCM fitting results
 - low-level HERCULES basis set in NIfTI-MRS format 
 
-## Planned Features
+## Next step
 - Generalize guidelines to leverage NIfTI-MRS to store low-level basis sets and LCM fitting results
 - Introduce a data format to store high-level basis sets
 - Write conversion scripts for LCM algorithms with discontinued support (LCModel)
