@@ -1,0 +1,9 @@
+{
+        "seqType": "HERCULES",
+        "editTarget": ["GABA","GSH"],
+        "files": ["/Users/helge/Documents/GitHub/basis2nii/NIfTi/sub_01/ses-01/mrs/sub_01_ses-01_acq-hercules_type-act_svs.nii.gz"],
+        "files_ref": ["/Users/helge/Documents/GitHub/basis2nii/NIfTi/sub_01/ses-01/mrs/sub_01_ses-01_acq-hercules_type-ref_svs.nii.gz"],
+        "files_nii": ["/Users/helge/Documents/GitHub/basis2niiNIfTi/sub_01/ses-01/anat/sub-01_ses-01_T1.nii"],
+        "files_seg": ["/Users/helge/Documents/GitHub/basis2nii/NIfTi/sub_01/ses-01/anat/sub-01_ses-01_T1-seg.nii"],
+        "outputFolder": ["/Users/helge/Documents/GitHub/basis2nii/NIfTi/derivatives"]
+}
