@@ -1,0 +1,10 @@
+{
+"BasisSetSimulation":{
+"TransitionTable":1,
+ "SpectrometerFrequency":128000000,
+ "ResonantNucleus": "1H",
+ "ProtocolName": "IdealPRESS",
+ "Timing":{"TE1":13.8, "TE2":21},
+ "PulseShapes":"IdealExcitation",
+"MetaboliteNames":["aspartate", "choline-truncated", "creatine", "gaba", "glutamate", "glutamine", "glutathione-glutamate", "GPC-gp", "GPC-pcholine1", "GPC-pcholine2", "lactate", "myo-inositol", "n-acetylaspartate", "NAAG-truncated", "phosphocreatine", "phosphorylethanolamine", "scyllo-inositol", "taurine"]}
+}

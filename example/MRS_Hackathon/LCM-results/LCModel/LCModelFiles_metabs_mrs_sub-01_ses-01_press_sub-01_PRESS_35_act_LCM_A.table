@@ -1,0 +1,117 @@
+ LCModel (Version 6.3-1N)
+ mrs_sub-01_ses-01_press_sub-01_PRESS_35_act_LCM_A
+
+$$CONC 32 lines in following concentration table = NCONC+1
+    Conc.  %SD /Cr+PCr  Metabolite                                         
+    0.000 999%   0.000 Asc                                                 
+    4.538  14%   0.422 Asp                                                 
+    3.193  12%   0.297 Cr                                                  
+    0.000 999%   0.000 GABA                                                
+    1.747   3%   0.163 GPC                                                 
+    1.478   9%   0.138 GSH                                                 
+    1.648  31%   0.153 Gln                                                 
+   12.533   5%   1.167 Glu                                                 
+    9.204   4%   0.857 mI                                                  
+    0.312 111% 2.9E-02 Lac                                                 
+   13.291   2%   1.237 NAA                                                 
+    1.092  19%   0.102 NAAG                                                
+    0.000 999%   0.000 PCh                                                 
+    7.549   6%   0.703 PCr                                                 
+    7.180  10%   0.668 PE                                                  
+    0.414  16% 3.8E-02 sI                                                  
+    1.021  53% 9.5E-02 Tau                                                 
+    0.000 999%   0.000 -CrCH2                                              
+    1.747   3%   0.163 PCh+GPC                                             
+   10.742   2%   1.000 Cr+PCr                                              
+   14.383   2%   1.339 NAA+NAAG                                            
+   14.180   6%   1.320 Glu+Gln                                             
+   34.815  23%   3.241 Lip13a                                              
+    0.000 999%   0.000 Lip13b                                              
+    9.482  29%   0.883 Lip09                                               
+    8.416  26%   0.783 MM09                                                
+    6.662  14%   0.620 Lip20                                               
+   12.175  23%   1.133 MM20                                                
+    5.259  27%   0.490 MM12                                                
+   13.596  29%   1.266 MM14                                                
+    8.881  28%   0.827 MM17                                                
+
+$$MISC  6 lines in following misc. output table
+  FWHM = 0.038 ppm    S/N =  41                                            
+  Data shift =-0.004 ppm                                                   
+  Ph: -17 deg      -3.5 deg/ppm                                            
+  alphaB,S = 2.6E-02,   9.0E+01                                            
+   26 spline knots.   Ns = 6(2)                                            
+  ( 5) 4 infls.   ( 3) 1 extrs.                                            
+
+$$DIAG  1 lines in following diagnostic table:
+   1 info      STARTV 24                                                  
+
+$$INPU 68 lines in following table of input changes:
+ filh2o = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/derivatives/LCModelFi                         
+   les/ref/mrs_sub-01_ses-01_press-ref_sub-01_PRE                         
+   SS_35_ref_LCM_REF.RAW'                                                 
+ filpri = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/derivatives/LCMoutput                         
+   /LCModelFiles_metabs_mrs_sub-01_ses-01_press_s                         
+   ub-01_PRESS_35_act_LCM_A.print'                                        
+ filcoo = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/derivatives/LCMoutput                         
+   /LCModelFiles_metabs_mrs_sub-01_ses-01_press_s                         
+   ub-01_PRESS_35_act_LCM_A.coord'                                        
+ filcsv = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/derivatives/LCMoutput                         
+   /LCModelFiles_metabs_mrs_sub-01_ses-01_press_s                         
+   ub-01_PRESS_35_act_LCM_A.csv'                                          
+ filtab = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/derivatives/LCMoutput                         
+   /LCModelFiles_metabs_mrs_sub-01_ses-01_press_s                         
+   ub-01_PRESS_35_act_LCM_A.table'                                        
+ filps = '/Users/helge/Documents/GitHub/osprey/ex                         
+   ampledata/sdat/UnEdited/derivatives/LCMoutput/                         
+   LCModelFiles_metabs_mrs_sub-01_ses-01_press_su                         
+   b-01_PRESS_35_act_LCM_A.ps'                                            
+ filraw = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/derivatives/LCModelFi                         
+   les/metabs/mrs_sub-01_ses-01_press_sub-01_PRES                         
+   S_35_act_LCM_A.RAW'                                                    
+ nomit = 9                                                                
+ ncombi = 5                                                               
+ nunfil = 2048                                                            
+ deltat = 5.000000e-04                                                    
+ hzpppm = 1.277509e+02                                                    
+ doecc = F                                                                
+ wconc = 55556                                                            
+ attmet = 1.0                                                             
+ atth2o = 1.0                                                             
+ dows = T                                                                 
+ ppmend = 0.50                                                            
+ ppmst = 4.00                                                             
+ namrel = 'Cr+PCr'                                                        
+ chomit(9) = 'bHG'                                                        
+ chomit(8) = 'bHB'                                                        
+ chomit(7) = 'Tyros'                                                      
+ chomit(6) = 'Ser'                                                        
+ chomit(5) = 'Phenyl'                                                     
+ chomit(4) = 'Gly'                                                        
+ chomit(3) = 'EtOH'                                                       
+ chomit(2) = 'Cit'                                                        
+ chomit(1) = 'Ala'                                                        
+ chcomb(5) = 'Glc+Tau'                                                    
+ chcomb(4) = 'Glu+Gln'                                                    
+ chcomb(3) = 'NAA+NAAG'                                                   
+ chcomb(2) = 'Cr+PCr'                                                     
+ chcomb(1) = 'PCh+GPC'                                                    
+ nsimul = 12                                                              
+ neach = 99                                                               
+ dkntmn = 0.15                                                            
+ filbas = 'Applications/OspreyGUI/application/bas                         
+   issets/3T/philips/unedited/press/35/3T_press_P                         
+   hilips_35ms_noMM.BASIS'                                                
+ lcsv = 11                                                                
+ ltable = 7                                                               
+ lcoord = 9                                                               
+ lprint = 6                                                               
+ srcraw = '/Users/helge/Documents/GitHub/osprey/e                         
+   xampledata/sdat/UnEdited/sub-01/ses-01/mrs/sub                         
+   -01_ses-01_press/sub-01_PRESS_35_act.sdat'                             
